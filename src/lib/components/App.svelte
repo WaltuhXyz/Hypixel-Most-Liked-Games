@@ -120,7 +120,7 @@
         
     <p>Did you notice a lot of changes made to Skyblock in this period of time? Hypixel Skyblock gained a lot of popularity because of the famous Youtubers that are still playing today.</p>
         
-    <p>But sadly, Hypixel Devs can't spread their time across all the games equally. Skyblock needs a lot of updates. The games like Skywars, Build Battle, Housing, Murder Mystery and others are long forgotten. There are no large updates on these for a long time of 4 years. No new maps, no new features, no new gameplay, <b>no feature</b>.</p>
+    <p>But sadly, Hypixel Devs can't spread their time across all the games equally. Skyblock needs a lot of updates. The games like Skywars, Build Battle, Housing, Murder Mystery and others are long forgotten. There are no large updates on these for a long time of 4 years. No new maps, no new features, no new gameplay, <b>no future</b>.</p>
         
     <p><b>People are bored...</b></p>
 </div>

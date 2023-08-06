@@ -10,10 +10,7 @@
     onMount(async () => {
         async function fetchSnapshotHistory() {
             console.debug("Fetching snapshot history");
-            const r = await fetch(endpoint, {
-                method: "GET",
-                mode: "no-cors",
-            });
+            const r = await fetch(endpoint);
 
             console.debug("Validating response");
             if (!r.ok) {

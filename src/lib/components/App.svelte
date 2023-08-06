@@ -98,6 +98,10 @@
     $: chartOptions = getChartOptions(snapshotHistory);
 </script>
 
+<svelte:head>
+    <title>Hypixel Most Liked Games Statistics</title>
+</svelte:head>
+
 <h1>Hypixel Most Liked Games</h1>
 
 <div class="chart" id="chart">

@@ -116,11 +116,11 @@
         
     <p><b>June 18, 2019.</b> Timedeo publishes his fairy soul location guide.</p>
         
-    <p><b>Now.</b> Skyblock became the biggest MMO RPG in Minecraft. Tens of thousands of players are playing it everyday. There are more than 1k items existing.</p>
+    <p><b>Now.</b> Skyblock became <b>the biggest MMO RPG</b> in Minecraft. <b>Tens of thousands of players</b>are playing it <b>everyday</b>. There are <b>more than 1k items</b> existing.</p>
         
     <p>Did you notice a lot of changes made to Skyblock in this period of time? Hypixel Skyblock gained a lot of popularity because of the famous Youtubers that are still playing today.</p>
         
-    <p>But sadly, Hypixel Devs can't spread their time across all the games equally. Skyblock needs a lot of updates. The games like Skywars, Build Battle, Housing, Murder Mystery and others are long forgotten. There are no large updates on these for a long time of 4 years. No new maps, no new features, no new gameplay, <b>no future</b>.</p>
+    <p>But <b>sadly, Hypixel Devs can't spread their time</b> across all the games equally. <b>Skyblock needs a lot of updates</b>. The games like Skywars, Build Battle, Housing, Murder Mystery and others are long forgotten. There are no large updates on these for a long time of 4 years. No new maps, no new features, no new gameplay, <b>no future</b>.</p>
         
     <p><b>People are bored...</b></p>
 </div>

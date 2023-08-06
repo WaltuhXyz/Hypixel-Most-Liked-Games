@@ -110,7 +110,7 @@
 
 <h2 id="article">What's wrong?</h2>
 <div class="text-block">
-    <p>There are lots of games and it seems like they're dead, <b>but why?</b><p>
+    <p>There are lots of games and it seems like they're dead, <b>but why? 💀</b><p>
 
     <p><b>June 11, 2019.</b> Skyblock is officialy released to the public. It was available only for ranked users. Hypixel Team began the Skyblock forum section.</p>
         
@@ -120,11 +120,11 @@
         
     <p><b>June 18, 2019.</b> Timedeo publishes his fairy soul location guide.</p>
         
-    <p><b>Now.</b> Skyblock became <b>the biggest MMO RPG</b> in Minecraft. <b>Tens of thousands of players</b>are playing it <b>everyday</b>. There are <b>more than 1k items</b> existing.</p>
+    <p><b>Now.</b> Skyblock became <b>the biggest MMO RPG</b> in Minecraft. <b>Tens of thousands of players</b> are playing it <b>everyday</b>. There are <b>more than 1k items</b> existing.</p>
         
     <p>Did you notice a lot of changes made to Skyblock in this period of time? Hypixel Skyblock gained a lot of popularity because of the famous Youtubers that are still playing today.</p>
         
-    <p>But <b>sadly, Hypixel Devs can't spread their time</b> across all the games equally. <b>Skyblock needs a lot of updates</b>. The games like Skywars, Build Battle, Housing, Murder Mystery and others are long forgotten. There are no large updates on these for a long time of 4 years. No new maps, no new features, no new gameplay, <b>no future</b>.</p>
+    <p>But <b>sadly 😞, Hypixel Devs can't spread their time</b> across all the games equally. <b>Skyblock needs a lot of updates</b>. The games like Skywars, Build Battle, Housing, Murder Mystery and others are long forgotten. There are no large updates on these for a long time of 4 years. No new maps, no new features, no new gameplay, <b>no future</b>.</p>
         
     <p><b>People are bored...</b></p>
 </div>

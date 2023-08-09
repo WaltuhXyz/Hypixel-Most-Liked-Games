@@ -100,6 +100,9 @@
 
 <svelte:head>
     <title>Hypixel Most Liked Games Statistics</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=true>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
 </svelte:head>
 
 <h1>Hypixel Most Liked Games</h1>

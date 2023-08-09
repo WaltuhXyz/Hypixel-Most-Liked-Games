@@ -134,6 +134,7 @@
 
 <div class="footer">
     <p>Made by DrupalDoesNotExists and TurtleWalter with ❤️ and ☕!</p>
+    <a href="https://waltuh.xyz/">Powered by Waltuh.Xyz Dev Team</a>
 </div>
 
 <style>

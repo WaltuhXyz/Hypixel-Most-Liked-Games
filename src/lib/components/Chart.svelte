@@ -16,6 +16,10 @@
     });
 </script>
 
+<svelte:head>
+    <script type="module" src="https://code.highcharts.com/modules/mouse-wheel-zoom.js" />
+</svelte:head>
+
 <div bind:this={element}></div>
 
 <style>

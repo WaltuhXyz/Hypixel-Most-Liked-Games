@@ -3,11 +3,31 @@
 import Highcharts from "highcharts";
 
 export const theme: Highcharts.Options = {
-    colors: ['#F48120', '#FAAD3F', '#058DC7', '#50B432', '#ED561B', '#DDDF00',
-             '#24CBE5', '#64E572', '#FF9655', '#FFF263', '#6AF9C4'],
+    colors: [
+        '#0088ea',
+        '#0f82e9',
+        '#1e7be8',
+        '#2c75e7',
+        '#3b6fe6',
+        '#4a68e4',
+        '#5962e3',
+        '#685ce2',
+        '#7756e1',
+        '#854fe0',
+        '#9449df',
+        '#a343de',
+        '#b23cdd',
+        '#c136db',
+        '#cf30da',
+        '#de29d9',
+        '#ed23d8',
+    ],
     chart: {
         type: "areaspline",
         backgroundColor: "var(--color-black)",
+        zooming: {
+            type: "xy"
+        }
     },
     title: {
         style: {
